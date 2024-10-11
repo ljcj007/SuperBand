@@ -5,12 +5,12 @@ The SuperBand database is an open access energy structure database for supercond
 The SuperBand website http://www.superband.work/ offers a visual interface for exploring lattice structures, electronic band structures, and Fermi surface plots, providing an intuitive means of understanding the electronic properties of superconductors.
 
 Our goal is to provide energy bands informations of all superconductors. Including
--1 Basic material informations, including Chemical Formula, Tc, reference and so on. .
--2 Material structure information in CIF format.
--3 Band Structure and DOS diagram.
--4 Fermi surface diagrams of (001) and (100) planes.
--5 3D Fermi surface map.
--6 Normalized band data for Machine Learning.
+1. Basic material informations, including Chemical Formula, Tc, reference and so on. .
+2. Material structure information in CIF format.
+3. Band Structure and DOS diagram.
+4. Fermi surface diagrams of (001) and (100) planes.
+5. 3D Fermi surface map.
+6. Normalized band data for Machine Learning.
 
 Note that in the github version of this dataset, in directory `superband/`, we only give four examples in SuperBand. 
 
@@ -49,9 +49,9 @@ We are grateful to the provider of different databases which have made the Super
 
 - 3. We applied the 3DSC methodology [6] to handle chemical formulas, including the definitions for exact matching, similarities, doping, and unmatched cases.
 
--4. High-throughput DFT calculations are facilitated by the Atomate open-source package [7], with parameter settings derived from the MIT High-Throughput Project [8]. For workflow automation, we employ the FireWorks package [9], which efficiently manages the task flow for structure optimization, static calculations, self-consistent field (SCF) calculations, and band structure determinations at high-symmetry points in reciprocal space.
+- 4. High-throughput DFT calculations are facilitated by the Atomate open-source package [7], with parameter settings derived from the MIT High-Throughput Project [8]. For workflow automation, we employ the FireWorks package [9], which efficiently manages the task flow for structure optimization, static calculations, self-consistent field (SCF) calculations, and band structure determinations at high-symmetry points in reciprocal space.
 
--5. To extract relevant data for analysis, including band structure and DOS, we utilize the Pymatgen package [10]. For Fermi surface generation, analysis, and visualization, the Ifermi package [11] is used, enabling detailed examination of electronic properties crucial for understanding superconducting mechanisms.
+- 5. To extract relevant data for analysis, including band structure and DOS, we utilize the Pymatgen package [10]. For Fermi surface generation, analysis, and visualization, the Ifermi package [11] is used, enabling detailed examination of electronic properties crucial for understanding superconducting mechanisms.
 
 ## References
 1. T. Zhang, C. Suo, Y. Wu, X. Xu, Y. Liu, D.-X. Yao, and J. Li, Superband: an Electronic-band and Fermi surface structure database of superconductor (2024), arXiv:2409.09419 https://arxiv.org/abs/2409.09419
