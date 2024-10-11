@@ -69,12 +69,12 @@ We are grateful to the provider of different databases which have made the Super
 7. K. Mathew, J. H. Montoya, A. Faghaninia, S. Dwarakanath, M. Aykol, H. Tang, I.-h. Chu, T. Smidt, B. Bocklund, M. Horton, J. Dagdelen, B. Wood, Z.-K. Liu, J. Neaton, S. P. Ong, K. Persson, and A. Jain, Atomate: A high-level interface to generate, execute, and analyze computational materials science
 workflows, Computational Materials Science 139, 140 (2017). https://atomate.org/
 
-8. A. Jain, G. Hautier, C. J. Moore, S. Ping Ong, C. C. Fischer, T. Mueller, K. A. Persson, and G. Ceder, A highthroughput infrastructure for density functional theory calculations, Computational Materials Science 50, 2295 (2011). https://doi.org/10.1016/j.commatsci.2011.02.023
+8. A. Jain, G. Hautier, C. J. Moore, S. Ping Ong, C. C. Fischer, T. Mueller, K. A. Persson, and G. Ceder, A high-throughput infrastructure for density functional theory calculations, Computational Materials Science 50, 2295 (2011). https://doi.org/10.1016/j.commatsci.2011.02.023
 
 9. A. Jain, S. P. Ong, W. Chen, B. Medasani, X. Qu, M. Kocher, M. Brafman, G. Petretto, G.-M. Rignanese,
 G. Hautier, D. Gunter, and K. A. Persson, Fireworks: a dynamic workflow system designed for high-throughput applications, Concurrency and Computation: Practice and Experience 27, 5037 (2015). https://materialsproject.github.io/fireworks/
 
-10. S. P. Ong, S. Cholia, A. Jain, M. Brafman, D. Gunter, G. Ceder, and K. A. Persson, The Materials Application Programming Interface (API): A simple, flexible and efficient API for materials data based on REpresentational State Transfer (REST) principles, Computational Materials Science 97, 209 (2015).
+10. S. P. Ong, S. Cholia, A. Jain, M. Brafman, D. Gunter, G. Ceder, and K. A. Persson, The Materials Application Programming Interface (API): A simple, flexible and efficient API for materials data based on REpresentational State Transfer (REST) principles, Computational Materials Science 97, 209 (2015).
 https://doi.org/10.1016/j.commatsci.2014.10.037
 
 11. A. M. Ganose, A. Searle, A. Jain, and S. M. Griffin, IFermi: A python library for Fermi surface generation
